@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> MACHINE LEARNING ENGINEER  on Shubham Omprakash Patil</title>
-    <link>https://shubhamomprakashpatil.github.io/repo2/</link>
+    <link>https://shubhamomprakashpatil.github.io/portfolio/</link>
     <description>Recent content in  MACHINE LEARNING ENGINEER  on Shubham Omprakash Patil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Sep 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://shubhamomprakashpatil.github.io/repo2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Sep 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://shubhamomprakashpatil.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Consultant at the Emerging Technologies Group</title>
-      <link>https://shubhamomprakashpatil.github.io/repo2/experience/experience-2/</link>
+      <link>https://shubhamomprakashpatil.github.io/portfolio/experience/experience-2/</link>
       <pubDate>Wed, 15 Sep 2021 11:00:59 -0400</pubDate>
       
-      <guid>https://shubhamomprakashpatil.github.io/repo2/experience/experience-2/</guid>
+      <guid>https://shubhamomprakashpatil.github.io/portfolio/experience/experience-2/</guid>
       <description> Assisting course instructors during the course (and lab work) in Virtual Reality. Developing 3D model (point cloud and mesh) using the Photogrammetry room at UofM. Consulting students in technical difficulties from softwares like Rhino, Metashape Agisoft, Unity and Oculus.  </description>
     </item>
     
     <item>
       <title>Model Predictive Control and Image Classification</title>
-      <link>https://shubhamomprakashpatil.github.io/repo2/post/project-2/</link>
+      <link>https://shubhamomprakashpatil.github.io/portfolio/post/project-2/</link>
       <pubDate>Wed, 15 Sep 2021 11:00:59 -0400</pubDate>
       
-      <guid>https://shubhamomprakashpatil.github.io/repo2/post/project-2/</guid>
+      <guid>https://shubhamomprakashpatil.github.io/portfolio/post/project-2/</guid>
       <description>Problem Statement (MPC): In this project, an F1 vehicle is subjected to a Miami race-track consisting of randomly generated obstacles in its course. The defined vehicle is bounded by speed and steering angle constraints, with a goal to complete the track in minimum time and avoid all the random obstacles. The vehicle can detect an obstacle within a range of 250 m.
 Problem Statement (Image Classification): From the given dataset of 10,000 images comprising of 22 classes, develop an image classification model with an accuracy of more than 45%.</description>
     </item>
     
     <item>
       <title>TechLab M City: Point One Navigation and Deepen Ai</title>
-      <link>https://shubhamomprakashpatil.github.io/repo2/experience/experience-1/</link>
+      <link>https://shubhamomprakashpatil.github.io/portfolio/experience/experience-1/</link>
       <pubDate>Tue, 10 Aug 2021 10:58:08 -0400</pubDate>
       
-      <guid>https://shubhamomprakashpatil.github.io/repo2/experience/experience-1/</guid>
+      <guid>https://shubhamomprakashpatil.github.io/portfolio/experience/experience-1/</guid>
       <description>Point One Navigation:
  Research work in analyzing different methodologies for the conversion of Tensorflow model to TensorRT for the CULane dataset. Implementing texture mapping in improving lane detection accuracy.  </description>
     </item>
     
     <item>
       <title>Prioritised Experience Replay</title>
-      <link>https://shubhamomprakashpatil.github.io/repo2/post/project-1/</link>
+      <link>https://shubhamomprakashpatil.github.io/portfolio/post/project-1/</link>
       <pubDate>Sun, 01 Aug 2021 10:58:08 -0400</pubDate>
       
-      <guid>https://shubhamomprakashpatil.github.io/repo2/post/project-1/</guid>
+      <guid>https://shubhamomprakashpatil.github.io/portfolio/post/project-1/</guid>
       <description>In this project, uniform experience replay is applied using a deep Q-network, in which transitions are uniformly sampled from the agents’ replay memory.
 In the latter part, proportional prioritization is applied to replay the transitions that are categorized as more important, at a higher frequency. Prioritization gives a more robust and effective learning system.
 Following is the network architecture implemented in PyTorch using novel agent and Q-Table classes.

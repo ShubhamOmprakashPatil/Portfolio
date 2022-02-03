@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Experience on Shubham Omprakash Patil</title>
-    <link>https://shubhamomprakashpatil.github.io/repo2/experience/</link>
+    <link>https://shubhamomprakashpatil.github.io/portfolio/experience/</link>
     <description>Recent content in Experience on Shubham Omprakash Patil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://shubhamomprakashpatil.github.io/repo2/experience/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://shubhamomprakashpatil.github.io/portfolio/experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Consultant at the Emerging Technologies Group</title>
-      <link>https://shubhamomprakashpatil.github.io/repo2/experience/experience-2/</link>
+      <link>https://shubhamomprakashpatil.github.io/portfolio/experience/experience-2/</link>
       <pubDate>Wed, 15 Sep 2021 11:00:59 -0400</pubDate>
       
-      <guid>https://shubhamomprakashpatil.github.io/repo2/experience/experience-2/</guid>
+      <guid>https://shubhamomprakashpatil.github.io/portfolio/experience/experience-2/</guid>
       <description> Assisting course instructors during the course (and lab work) in Virtual Reality. Developing 3D model (point cloud and mesh) using the Photogrammetry room at UofM. Consulting students in technical difficulties from softwares like Rhino, Metashape Agisoft, Unity and Oculus.  </description>
     </item>
     
     <item>
       <title>TechLab M City: Point One Navigation and Deepen Ai</title>
-      <link>https://shubhamomprakashpatil.github.io/repo2/experience/experience-1/</link>
+      <link>https://shubhamomprakashpatil.github.io/portfolio/experience/experience-1/</link>
       <pubDate>Tue, 10 Aug 2021 10:58:08 -0400</pubDate>
       
-      <guid>https://shubhamomprakashpatil.github.io/repo2/experience/experience-1/</guid>
+      <guid>https://shubhamomprakashpatil.github.io/portfolio/experience/experience-1/</guid>
       <description>Point One Navigation:
  Research work in analyzing different methodologies for the conversion of Tensorflow model to TensorRT for the CULane dataset. Implementing texture mapping in improving lane detection accuracy.  </description>
     </item>
